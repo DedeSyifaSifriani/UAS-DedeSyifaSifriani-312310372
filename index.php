@@ -13,7 +13,7 @@
 
 <footer>
     <div class="text-bg-dark text-center p-2"> 
-        Pemrograman Web 1 @ <?= date("Y") ?>
+        Dibuat Oleh DedeSyifaSifriani @ <?= date("Y") ?>
     </div>
 </footer>
 
